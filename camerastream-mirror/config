@@ -7,3 +7,5 @@
 [remote "origin"]
 	url = https://github.com/maxwellarmstrong/camerastream.git
 	fetch = +refs/heads/*:refs/remotes/origin/*
+[lfs]
+	repositoryformatversion = 0
